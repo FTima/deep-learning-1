@@ -2,6 +2,7 @@
     "python.testing.pytestArgs": [
         "."
     ],
+    "python.pythonPath": "D:\\Tutorials\\Coursera\\Deep learning\\LAB\\python\\env\\Scripts\\python.exe" ,
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestEnabled": true
